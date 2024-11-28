@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Abdirahim Gurhan",
   "license": "ISC",
-  "description": "",
+  "description": "This is the Api for E-commerce Application",
   "dependencies": {
     "express": "^4.21.1"
   },
