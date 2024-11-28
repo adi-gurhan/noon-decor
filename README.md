@@ -1,3 +1,5 @@
 Your Currenty working on the API 
-To run it Cd Api then Npm run dev
-
+"dev": "node --import=tsx --env-file=.env --watch src/index.ts",
+Cd Api 
+Then Run
+Npm run dev
